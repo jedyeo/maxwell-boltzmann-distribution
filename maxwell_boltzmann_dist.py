@@ -30,7 +30,7 @@ def get_speed_of_sound(gamma, m, T):
     return math.sqrt(gamma * R * T / m)
 
 
-if __name__ == '__main__':   
+if __name__ == '__main__':
     # Analysis of air
     T = 273.15 + 20
 
