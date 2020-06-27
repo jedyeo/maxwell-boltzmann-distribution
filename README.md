@@ -16,5 +16,5 @@ v_rms of He2 is 1352.0337176808966
 
 speed of sound in He2 at 293.15 K is 1005.7128698092711
 
-![graph 1](maxwell-boltzmann-distribution/maxwell_boltzmann_dist_air.png)
-![graph 2](maxwell-boltzmann-distribution/maxwell_boltzmann_dist_he2.png)
+![graph 1](https://github.com/[jedyeo]/maxwell-boltzmann-distribution/blob/master/maxwell_boltzmann_dist_air.png?raw=true)
+![graph 2](https://github.com/[jedyeo]/maxwell-boltzmann-distribution/blob/master/maxwell_boltzmann_dist_he2.png?raw=true)
